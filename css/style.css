@@ -20,3 +20,40 @@
   cursor: pointer;
   border: none;
 }
+.cat1,.cat2, .cat3{
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat1{
+  background: orange;
+}
+.cat2{
+  background: orchid;
+}
+.cat3{
+  background: blue;
+}
+ 
+.catagori h1{
+  color: #fff;
+
+}
+.catagori img{
+ width: 100px;
+}
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+  background-color: #fff;
+}
+#subcribe{
+  height: 300px;
+}
+#subcribe h6{
+  color: gray;
+}
+footer{
+  text-align: center;
+}
